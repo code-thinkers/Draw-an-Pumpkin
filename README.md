@@ -1,4 +1,4 @@
-# Vẽ Hình Nghệ Thuật với Turtle 🐢 - Hình Tròn và Tam Giác 🔵🔺
+# Vẽ Hình Nghệ Thuật với Turtle 🐢 - Bí Ngô Halloween 🔵🔺
 
 Chào mừng bạn đến với dự án **Vẽ Hình Nghệ Thuật với Turtle**! 🌈 Dự án này sẽ hướng dẫn bạn cách vẽ các hình đơn giản nhưng đầy thú vị bằng cách sử dụng thư viện **Turtle** trong Python. Chúng ta sẽ vẽ các hình tròn và tam giác, tạo nên một bức tranh nhỏ sáng tạo ngay trên màn hình. Thật tuyệt vời phải không? 🌟
 
