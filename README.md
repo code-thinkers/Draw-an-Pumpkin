@@ -4,7 +4,7 @@ Chào mừng bạn đến với dự án **Vẽ Hình Nghệ Thuật với Turtl
 
 ## Mô Tả Dự Án 📝
 
-Dự án này sử dụng thư viện **Turtle** để vẽ hai hình tròn màu cam 🍊 và ba hình tam giác màu vàng 🌟. Bạn sẽ học cách điều khiển bút vẽ của Turtle để tạo ra các hình khác nhau, thiết lập màu sắc và sử dụng các lệnh cơ bản như di chuyển và tô màu. 
+Dự án này sử dụng thư viện **Turtle** để vẽ 🎃 bí ngô Halloween. Bạn sẽ học cách điều khiển bút vẽ của Turtle để tạo ra các hình khác nhau, thiết lập màu sắc và sử dụng các lệnh cơ bản như di chuyển và tô màu. 
 
 ## Cách Chạy Dự Án 🚀
 
